@@ -1,0 +1,562 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="1162" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1250" y="210" width="20" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-2" value=":User" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1205" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1259.9299999999998" y="170" as="sourcePoint" />
+            <mxPoint x="1259.9299999999998" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-4" value=":SMS" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-6" value=":Student" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1936.67" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.454;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.8699999999997" y="210" as="sourcePoint" />
+            <mxPoint x="1479.8699999999997" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-84" value=":Professor" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-185" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270.0000000000002" y="210" as="sourcePoint" />
+            <mxPoint x="1470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-186" value="Search student by name" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-185" vertex="1" connectable="0">
+          <mxGeometry x="-0.276" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-187" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="209" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-201" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="799" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-203" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-200" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2305" y="848" as="sourcePoint" />
+            <mxPoint x="1780" y="848.4300000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1980" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-204" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-203" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-205" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-203" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-206" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-203" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint x="11" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-207" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="749" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-209" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-207" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1765" y="799" as="sourcePoint" />
+            <mxPoint x="1495" y="799" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-210" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-209" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-211" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-209" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-212" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-209" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-214" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1480" y="749" as="sourcePoint" />
+            <mxPoint x="1270" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-215" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-214" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-216" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-214" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-217" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-214" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-218" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-201" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.66" y="839" as="sourcePoint" />
+            <mxPoint x="1770" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-221" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1991.17" y="558" as="sourcePoint" />
+            <mxPoint x="1991.17" y="1159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-308" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.88" y="299" as="sourcePoint" />
+            <mxPoint x="1479.88" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-396" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-6" edge="1" source="-6PEmMJlGs1gWMdDE86d-452">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1991.67" y="1360" as="sourcePoint" />
+            <mxPoint x="1991.2500000000005" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-438" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-440" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="949" as="sourcePoint" />
+            <mxPoint x="1475" y="949" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-439" value="Search student by ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-438" vertex="1" connectable="0">
+          <mxGeometry x="-0.276" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-440" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="949" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-441" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="949" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-442" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-440" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1495" y="999.4299999999998" as="sourcePoint" />
+            <mxPoint x="1760" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-443" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-442" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-444" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-442" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-445" value="Get student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-442" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-447" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1780" y="949" as="sourcePoint" />
+            <mxPoint x="1980" y="949" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-448" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-447" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-449" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-447" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-450" value="Obtain student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-447" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-451" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1981.67" y="949" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-452" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1981.67" y="1109" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-453" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="1109" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-454" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-452" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2295" y="1109" as="sourcePoint" />
+            <mxPoint x="1780" y="1109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-455" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-454" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-456" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-454" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-457" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-454" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-459" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-458" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1770" y="1159" as="sourcePoint" />
+            <mxPoint x="1495" y="1159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-460" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-459" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-461" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-459" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-462" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-459" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-463" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1475" y="1209" as="sourcePoint" />
+            <mxPoint x="1270" y="1209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-464" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-463" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-465" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-463" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-466" value="Student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-463" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-467" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-453" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.66" y="1209" as="sourcePoint" />
+            <mxPoint x="1770" y="1109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-468" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-453" target="-6PEmMJlGs1gWMdDE86d-441" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1059" as="sourcePoint" />
+            <mxPoint x="1769.8300000000002" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-469" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-452" target="-6PEmMJlGs1gWMdDE86d-451" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1996.6" y="1209" as="sourcePoint" />
+            <mxPoint x="1996.4300000000003" y="1159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-470" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.88" y="1159" as="sourcePoint" />
+            <mxPoint x="1479.88" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-472" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-200" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1996.4900000000002" y="889" as="sourcePoint" />
+            <mxPoint x="1996.67" y="869" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-477" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770.17" y="739" as="sourcePoint" />
+            <mxPoint x="1770.17" y="749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-478" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-441" target="-6PEmMJlGs1gWMdDE86d-201" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.83" y="939" as="sourcePoint" />
+            <mxPoint x="1770" y="919" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-479" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-451" target="-6PEmMJlGs1gWMdDE86d-200" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1996.67" y="1109" as="sourcePoint" />
+            <mxPoint x="1996.67" y="869" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-200" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1981.67" y="849" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-487" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1934.92" y="3460.0000000000005" as="sourcePoint" />
+            <mxPoint x="1934.92" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-458" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="1159" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-510" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0588" y="80" relative="1" as="geometry">
+            <mxPoint x="1495.01" y="299" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1525.01" y="329" />
+            </Array>
+            <mxPoint x="1500.01" y="329" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-511" value="Validate User Permissions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="289" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-512" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="429" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-513" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="429" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-514" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-513" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1492.5" y="429" as="sourcePoint" />
+            <mxPoint x="1922.5" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-515" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-514" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-516" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-514" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-517" value="Validate Professor permissions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-514" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-518" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="539" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-519" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="539" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-521" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.88" y="539" as="sourcePoint" />
+            <mxPoint x="1479.88" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-522" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.88" y="429" as="sourcePoint" />
+            <mxPoint x="1479.88" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-523" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1482.5" y="339" as="sourcePoint" />
+            <mxPoint x="1482.58" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-524" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-541" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="659" as="sourcePoint" />
+            <mxPoint x="1470" y="659" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-525" value="Search student by name" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-524" vertex="1" connectable="0">
+          <mxGeometry x="0.0295" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-526" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1765" y="539" as="sourcePoint" />
+            <mxPoint x="1492.5" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-527" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-526" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-528" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-526" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-529" value="Permissions granted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-526" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-509" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="299" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-541" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1470" y="659" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-546" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1760" y="709" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-547" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1492.5" y="709.4299999999998" as="sourcePoint" />
+            <mxPoint x="1762.5" y="709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-548" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-547" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-549" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-547" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-550" value="Get student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-547" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-551" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-555" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1780" y="734.2199999999997" as="sourcePoint" />
+            <mxPoint x="2200" y="733.79" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-552" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-551" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-553" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-551" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-554" value="Obtain student information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-551" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-555" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1981.67" y="709" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-556" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1475" y="589" as="sourcePoint" />
+            <mxPoint x="1270" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-557" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20issues%20the%20command%20sudo%20apt%20update%26lt%3Bdiv%26gt%3B%26lt%3Bbr%2F%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-556" vertex="1" connectable="0">
+          <mxGeometry x="0.1219" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-558" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Administrator%20logs%20in%20with%20username%20and%20password%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22359.8571428571429%22%20y%3D%22177%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-556" vertex="1" connectable="0">
+          <mxGeometry x="-0.0087" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-559" value="Permissions granted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-6PEmMJlGs1gWMdDE86d-556" vertex="1" connectable="0">
+          <mxGeometry x="0.0142" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-560" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.8799999999999" y="659" as="sourcePoint" />
+            <mxPoint x="1479.8799999999999" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-561" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.88" y="749" as="sourcePoint" />
+            <mxPoint x="1479.98" y="709" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-562" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.83" y="709" as="sourcePoint" />
+            <mxPoint x="1769.83" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-563" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.8799999999999" y="539" as="sourcePoint" />
+            <mxPoint x="1769.8799999999999" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-635" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.8799999999999" y="949" as="sourcePoint" />
+            <mxPoint x="1479.88" y="799" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-688" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.544;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-6PEmMJlGs1gWMdDE86d-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1769.6399999999999" y="429" as="sourcePoint" />
+            <mxPoint x="1769.6399999999999" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-689" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.64" y="209" as="sourcePoint" />
+            <mxPoint x="1479.64" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-6PEmMJlGs1gWMdDE86d-690" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="-6PEmMJlGs1gWMdDE86d-200" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1991.31" y="809" as="sourcePoint" />
+            <mxPoint x="1991.31" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KbFLCX_pp6QvGL4VoS7-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
