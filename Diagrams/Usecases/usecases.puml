@@ -1,0 +1,46 @@
+@startuml
+
+
+package SMSApp {
+  usecase "View Students" as GetStudents
+  usecase "Manage Students" as ManageStudent
+  usecase "View Courses" as GetCourses
+  usecase "Manage Courses" as ManageCourse
+  usecase "View Users" as GetUsers
+  usecase "Manage Users" as ManageUser
+  usecase "Remove Student" as RemoveStudent
+  usecase "Remove Course" as RemoveCourse
+  usecase "Remove User" as RemoveUser
+  usecase "Update Student" as UpdateStudent
+  usecase "Update Course" as UpdateCourse
+  usecase "Update User" as UpdateUser
+}
+
+:User: --> GetStudents
+:User: --> GetCourses
+
+:Admin: --> ManageStudent
+:Admin: --> ManageCourse
+:Admin: --> GetUsers
+:Admin: --> ManageUser
+:Admin: --> GetStudents
+:Admin: --> GetCourses
+
+ManageStudent --> RemoveStudent : <<extends>>
+ManageStudent --> UpdateStudent : <<extends>>
+ManageCourse --> RemoveCourse : <<extends>>
+ManageCourse --> UpdateCourse : <<extends>>
+ManageUser --> RemoveUser : <<extends>>
+ManageUser --> UpdateUser : <<extends>>
+
+GetStudents --> Server
+GetCourses --> Server
+GetUsers --> Server
+UpdateStudent --> Server
+UpdateCourse --> Server
+UpdateUser --> Server
+RemoveStudent --> Server
+RemoveCourse --> Server
+RemoveUser --> Server
+
+@enduml
