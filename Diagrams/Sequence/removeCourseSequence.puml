@@ -1,0 +1,22 @@
+@startuml
+
+User -> SMS: Click remove button
+activate User
+activate SMS
+return Display confirmation dialog
+User -> SMS: Click confirm button
+activate SMS
+SMS -> Server: Request removal of course
+activate Server
+Server -> Server: Find all students enrolled in course
+Server -> Database: Remove enrollment records
+activate Database
+return Enrollment records removed
+Server -> Database: Remove course
+activate Database
+return Course removed
+return Course removed
+return Course removed
+deactivate User
+
+@enduml
