@@ -33,14 +33,4 @@ ManageCourse --> UpdateCourse : <<extends>>
 ManageUser --> RemoveUser : <<extends>>
 ManageUser --> UpdateUser : <<extends>>
 
-GetStudents --> Server
-GetCourses --> Server
-GetUsers --> Server
-UpdateStudent --> Server
-UpdateCourse --> Server
-UpdateUser --> Server
-RemoveStudent --> Server
-RemoveCourse --> Server
-RemoveUser --> Server
-
 @enduml
